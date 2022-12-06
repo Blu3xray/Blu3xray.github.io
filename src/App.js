@@ -49,11 +49,11 @@ function SignIn() {
     const provider = new firebase.auth.GoogleAuthProvider();
     auth.signInWithPopup(provider);
   }
+// commented parapgraph from line 57 (commented because of margin problems) <p>Do not violate the community guidelines or you will be banned for life!</p>
 
   return (
     <>
       <button className="sign-in" onClick={signInWithGoogle}>Sign in with Google</button>
-      <p>Do not violate the community guidelines or you will be banned for life!</p>
     </>
   )
 
