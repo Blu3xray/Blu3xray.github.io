@@ -26,7 +26,7 @@ const analytics = firebase.analytics();
 
 function App() {
 
-  const [user] = useAuthState(auth);
+  const [user] = useAuthState(auth);   //asdasd
 
   return (
     <div className="App">
