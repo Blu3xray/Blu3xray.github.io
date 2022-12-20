@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SchoolChat/static/css/main.ebcb4466.css",
+    "main.js": "/SchoolChat/static/js/main.ea384704.js",
+    "static/js/787.61243e5d.chunk.js": "/SchoolChat/static/js/787.61243e5d.chunk.js",
+    "index.html": "/SchoolChat/index.html",
+    "main.ebcb4466.css.map": "/SchoolChat/static/css/main.ebcb4466.css.map",
+    "main.ea384704.js.map": "/SchoolChat/static/js/main.ea384704.js.map",
+    "787.61243e5d.chunk.js.map": "/SchoolChat/static/js/787.61243e5d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ebcb4466.css",
+    "static/js/main.ea384704.js"
+  ]
+}
